@@ -1,0 +1,12 @@
+a=[1,2,3,4,5,6,]
+b=[6,5,4,3,2,1,]
+c=[1,3,5]
+d=[2,4,6]
+o=b==a
+print(o)
+k=b==b
+print(k)
+l=b==c
+print(l)
+p=b==d
+print(p)
